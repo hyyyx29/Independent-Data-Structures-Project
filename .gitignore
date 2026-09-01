@@ -1,0 +1,8 @@
+*.o
+*.exe
+avl_tester
+minheap_tester
+minheap_measure
+graph_tester
+main
+.idea/
